@@ -108,8 +108,3 @@ OpenCV → PySimpleGUI に表示するには、画像を Base64 に変換する�
 「自分以外の顔を隠す」というユニークな発想を、確かな実装力で形にできた自信作です。
 """
 
-# README.md に書き込む
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-print("✅ README.md が作成されました")
